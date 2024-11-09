@@ -1,0 +1,1 @@
+export const kali = (a, b) => a * b;

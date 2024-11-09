@@ -4,6 +4,7 @@
         "Asynchronus",
         "biasa",
         "dari",
+        "dengan",
         "habis",
         "hasil",
         "Jaringan",
@@ -13,6 +14,7 @@
         "masih",
         "Masukan",
         "meminta",
+        "Mengubah",
         "Pada",
         "perkalian",
         "Perkalian",
@@ -23,5 +25,9 @@
         "Stok",
         "sudah",
         "Terjadi"
+    ],
+    "cSpell.ignoreWords": [
+        "operasi",
+        "tambah"
     ]
 }
