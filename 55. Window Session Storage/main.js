@@ -10,10 +10,10 @@ console.log("Nama:", sessionStorage.getItem("nama"));
 console.log("Usia:", sessionStorage.getItem("usia"));
 
 // Menghapus item tertentu dari sessionStorage
-// sessionStorage.removeItem("nama");
+sessionStorage.removeItem("nama");
 
 // Menghapus semua data di sessionStorage
-// sessionStorage.clear();
+sessionStorage.clear();
 
 // Mengecek apakah sessionStorage tersedia di browser
 if (typeof Storage !== "undefined") {

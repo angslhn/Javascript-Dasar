@@ -1,7 +1,7 @@
 // Variable
 
-const myName = 'Aang Solihin';
-let myAge = 19;
-var myPassion = 'Programming';
+const nama = 'Aang Solihin';
+let umur = 19;
+var hobi = 'Programming';
 
-console.log(`Saya ${myName} berumur ${myAge} dan hal yang disukai saya adalah ${myPassion}.`);
+console.log(`Saya ${nama} berumur ${umur} dan hal yang disukai saya adalah ${hobi}.`);

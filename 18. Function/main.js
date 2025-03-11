@@ -1,10 +1,14 @@
 // Function
-
-let x = parseInt(prompt("Angka Pertama"));
-let y = parseInt(prompt("Angka Kedua"));
-
-function tambahNumber(x, y) {
-  return x + y;
+function tambah(a, b) {
+  return a + b
 }
 
-alert(`Hasilnya adalah ${tambahNumber(x, y)}`);
+// Anonymous function
+const kurang = function(a, b) {
+  return a - b
+}
+
+// Arrow function
+const kali = (a, b) => {
+  return a * b
+}

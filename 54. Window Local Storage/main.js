@@ -10,10 +10,10 @@ console.log("Nama:", localStorage.getItem("nama"));
 console.log("Usia:", localStorage.getItem("usia"));
 
 // Menghapus item tertentu dari localStorage
-// localStorage.removeItem("nama");
+localStorage.removeItem("nama");
 
 // Menghapus semua data di localStorage
-// localStorage.clear();
+localStorage.clear();
 
 // Mengecek apakah localStorage tersedia di browser
 if (typeof Storage !== "undefined") {

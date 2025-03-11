@@ -7,10 +7,10 @@ console.log("Protocol:", window.location.protocol);
 console.log("Port:", window.location.port);
 
 // Redirect ke halaman lain
-// window.location.href = "https://google.com";
+window.location.href = "https://google.com";
 
 // Memuat ulang halaman
-// window.location.reload();
+window.location.reload();
 
 // Mengganti URL tanpa memuat ulang
-// window.location.replace("https://example.com");
+window.location.replace("https://example.com");

@@ -1,6 +1,6 @@
 // Object Oriented Programming
 
-// Object manual 
+// Object 
 let mobil = {
     merek: "Honda",
     tipe: "Brio",
