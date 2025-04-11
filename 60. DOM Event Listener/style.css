@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
